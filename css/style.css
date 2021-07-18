@@ -74,6 +74,19 @@ form{
     display: grid;
 }
 
+div#conteudo {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 14px;
+    color: #07253d;
+    letter-spacing: 1px;
+    padding: 10px;
+}
+
+div#conteudo img{
+    width:30px;
+    height: 30px;;
+}
+
 input{
     width: 50%;
     height: 25px;
